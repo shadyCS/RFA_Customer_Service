@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7268cc086ff4a7d4bddbc2af4c92d7b2",
+  "assets/AssetManifest.json": "3630bd74f41847716286b3e68f463b58",
 "assets/Assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/Assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/Assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
@@ -47,6 +47,7 @@ const RESOURCES = {
 "assets/Assets/Images/referral.jpg": "4fb906c4128f8246c581f63aca24c636",
 "assets/Assets/Images/rejected.jpg": "6c564835039bdcdaaa418d97fea62708",
 "assets/Assets/Images/review.jpg": "0d84bbfbb1b0fa54342b56ed9fd8f6fe",
+"assets/Assets/Images/review.png": "f2303cbf077a629e2a065a86a14f46f2",
 "assets/Assets/Images/rfa_logo.png": "23bf75f210538182913309cda768e5b5",
 "assets/Assets/Images/rfa_logo_horizontal.png": "9b9880fb4756968ed3ce84773c3258cd",
 "assets/Assets/Images/rfa_new_logo.png": "dae384105c6b88e4b979aaa6bd01ae06",
@@ -65,8 +66,8 @@ const RESOURCES = {
 "assets/Assets/Images/workshop_tickets.png": "a17a1c1fa39391d2cd1e655602974bff",
 "assets/FontManifest.json": "9a3fd6a92cf0e1b10b47b01497f8f312",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/Languages/ar.json": "bf37c32d8c1c2649cbfaeebea24e0fdd",
-"assets/Languages/en.json": "212daddef21311b2bdc32f0dc7e90c95",
+"assets/Languages/ar.json": "88654e428ca36eec6ab9c25785895868",
+"assets/Languages/en.json": "3a536fcd9104ec144ecc3bd7d0154623",
 "assets/NOTICES": "7eb1ae8d956899356f32952726e92426",
 "assets/packages/cool_alert/assets/flare/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/packages/cool_alert/assets/flare/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
@@ -90,9 +91,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c1cf4daa4ea13805ea8e09ba1b63b583",
-"/": "c1cf4daa4ea13805ea8e09ba1b63b583",
-"main.dart.js": "238a7d6c14132328572a6c322270df9c",
+"index.html": "4a9422551f753d91110afd9abf83022f",
+"/": "4a9422551f753d91110afd9abf83022f",
+"main.dart.js": "3679bb6264104697ddeee965cc21209f",
 "manifest.json": "3f92a849556967510ecd50602f08bc15",
 "version.json": "5e129f52952a920d64681e367187e4ef"
 };
